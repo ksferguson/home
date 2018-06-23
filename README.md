@@ -17,5 +17,7 @@ This is my github home base / portfolio.
 
 ---
 Tasks:
+
 [ ] Cleanup Page
+
 [ ] Convert to github.io site?
