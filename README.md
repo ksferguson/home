@@ -18,9 +18,9 @@ This is my github home base / portfolio.
 ---
 Tasks:
 
-  [ ] Cleanup Page
-  [ ] Add bio
-  [ ] Add URLs to LI, Google Scholar, etc.
-  [ ] Add Presentations @ HML, AIA, La Tech Symp
-  [ ] Add Pubs
-  [ ] Convert to github.io site?
+  * [ ] Cleanup Page
+  * [ ] Add bio
+  * [ ] Add URLs to LI, Google Scholar, etc.
+  * [ ] Add Presentations @ HML, AIA, La Tech Symp
+  * [ ] Add Pubs
+  * [ ] Convert to github.io site?
