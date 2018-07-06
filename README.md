@@ -10,15 +10,27 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
 ### fast.ai course notebooks
 
-  * Dogs vs Cats (Kaggle): [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-BC-Dogs-Cats.ipynb)
-  * Dogs vs Cats (Kaggle KMCL): [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-BC-Dogs-Cats-KMCL.ipynb)
-  * Dog Breeds (Kaggle): [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-MC-Dog-Breeds.ipynb)
+  * Deep Learning for Coders (2018) - Part 1
+    * Dogs vs Cats: Binary Image Classification (Lesson 1). [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-BC-Dogs-Cats.ipynb)
+    * Dogs vs Cats: Binary Image Classification (Lesson 1+). [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-BC-Dogs-Cats-KMCL.ipynb)
+    * Dog Breeds: Categorical Image Classification (Lesson 2). [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-MC-Dog-Breeds.ipynb)
+    * Planet: Multiple Categorical Image Classification (Lesson 2). In Progess.
+    * Favorita/Rossman: Structured Learning (Lesson 3).
+    * Sentiment Analysis: Language Modeling (Lesson 4)
+    * Movie Lens: Collaborative Filtering (Lesson 5).
+    * RNN: Custom Layer (Lesson 6/7).
+    * Batch Normalization (Lesson 7).
+  * Deep Learning for Coders (2018) - Part 2
+    * Image Object Detection: Primary Object Label & Bounding Box (Lesson 8). [Jupyter Notebook](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L8%20Object%20Detection.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai DL2 L8 Object Detection.ipynb)
+    * Image Object Detection: Multiple Object Labels & Bounding Boxes (Lesson 9). In Progress.
+    * NLP Classification (Lesson 10).
+    * Neural Translation (Lesson 11).
 
 ---
 
 ### Presentations
 
-Recurrent Neural Nets, Part I ([Goodfellow, et al](http://www.deeplearningbook.org/contents/rnn.html) Chapter 10 Sequence Modeling, Sections 10.1-10.6). Houston Machine Learning. Houston, TX. Jun 16, 2018.
+Recurrent Neural Nets, Part I ([Goodfellow, et al. 2016](http://www.deeplearningbook.org/contents/rnn.html), Chapter 10 Sequence Modeling, Sections 10.1-10.6). Houston Machine Learning. Houston, TX. Jun 16, 2018.
 
 From Application Servers to Server-less Lambda Functions (Lightning Talk). AIA (Association of Industry Analysts). Houston, TX. Jun 7, 2018.
 
@@ -28,11 +40,14 @@ Big Data/IoT/AI Ecosystem (Panel Moderator). Louisiana IT Symposium. New Orleans
 
 ### Education
 
+Postdoc (2 Years). Laboratiore d'Analyse et de Technologie du Langage, Université de Genève. Geneva, Switzerland.
 
+Ph.D. & M.A. in Linguistics (Syntax, minor field Computational Linguistics). Harvard University. Cambridge, MA.
+
+B.S. in Computer Science (minor field linguistics). Louisiana State University. Baton Rouge, LA.
 
 ---
 Tasks:
 
-  * [ ] Add bio
   * [ ] Add Pubs
   * [ ] Convert to github.io site
