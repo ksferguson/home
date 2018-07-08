@@ -23,7 +23,7 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
   * Deep Learning for Coders (2018) - Part 2
     * Image Object Detection: Primary Object Label & Bounding Box (Lesson 8). [Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L8%20Object%20Detection.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L8%20Object%20Detection.ipynb)
     * Image Object Detection: Multiple Object Labels & Bounding Boxes (Lesson 9). In Progress.
-    * NLP Classification (Lesson 10).
+    * NLP Classification (Lesson 10).[Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb)
     * Neural Translation (Lesson 11).
 
 ---
