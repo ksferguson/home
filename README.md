@@ -24,11 +24,14 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
     * Image Object Detection: Primary Object Label & Bounding Box (Lesson 8). [Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L8%20Object%20Detection.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L8%20Object%20Detection.ipynb)
     * Image Object Detection: Multiple Object Labels & Bounding Boxes (Lesson 9). In Progress.
     * NLP Classification (Lesson 10).[Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb)
+    * Visual-Semantic Embedding Classification (Lesson 10)
     * Neural Translation (Lesson 11).
 
 ---
 
 ### Presentations
+
+Introduction to NLP: Sentiment Analysis with a Language Model. Katy Machine Learning. Houston, TX. Aug 11, 2018.
 
 Recurrent Neural Nets, Part I ([Goodfellow, et al. 2016](http://www.deeplearningbook.org/contents/rnn.html), Chapter 10 Sequence Modeling, Sections 10.1-10.6). Houston Machine Learning. Houston, TX. Jun 16, 2018.
 
