@@ -43,7 +43,7 @@ Big Data/IoT/AI Ecosystem (Panel Moderator). Louisiana IT Symposium. New Orleans
 
 ### Education
 
-Postdoc (2 Years). Laboratiore d'Analyse et de Technologie du Langage, Université de Genève. Geneva, Switzerland.
+Postdoc (2 Years). Laboratoire d'Analyse et de Technologie du Langage, Université de Genève. Geneva, Switzerland.
 
 Ph.D. & M.A. in Linguistics (Syntax, minor field Computational Linguistics). Harvard University. Cambridge, MA.
 
