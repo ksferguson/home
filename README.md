@@ -25,7 +25,10 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
     * Image Object Detection: Multiple Object Labels & Bounding Boxes (Lesson 9). In Progress.
     * NLP Classification (Lesson 10).[Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb)
     * Visual-Semantic Embedding Classification (Lesson 10)
-    * Neural Translation (Lesson 11).
+    * Neural Translation (Lesson 11). In Progess.
+    * DarkNet: Generative Adversarial Networks (Lesson 12).  
+    * CycleGANs; Style Transfer (Lesson 13)
+    * Super Resolution; Segmentation w Unets (Lesson 14)
 
 ---
 
