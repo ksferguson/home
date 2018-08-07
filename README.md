@@ -2,11 +2,16 @@
 
 Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP at LATL/U. Geneva, Harvard Ph.D. in Linguistics (Syntax, with Comp Ling minor), LSU BS in Computer Science.
 
-  * [GitHub](https://github.com/ksferguson/home) / [Gists](https://gist.github.com/ksferguson) (new)
+  * [GitHub](https://github.com/ksferguson/home)
+  * [Gists](https://gist.github.com/ksferguson)
   * [Google Scholar](https://scholar.google.com/citations?user=bPUb6hcAAAAJ&hl=en)
   * [LinkedIn](https://www.linkedin.com/in/kscottferguson)
   * [Career](https://careerwebfolio.com/scottferguson)
   * [Twitter](https://twitter.com/ksferguson)
+
+
+### Katy Machine Learning - 11 Aug 2018
+  * [Talk Materials (In Progress)](https://github.com/ksferguson/home/tree/master/katyml)
 
 ### fast.ai course notebooks
 
@@ -34,7 +39,7 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
 ### Presentations
 
-Introduction to NLP: Sentiment Analysis with a Language Model. Katy Machine Learning. Houston, TX. Aug 11, 2018.
+Introduction to NLP: Sentiment Analysis with a Language Model. Katy Machine Learning. Houston, TX. Aug 11, 2018. [Talk Materials (In Progress)](https://github.com/ksferguson/home/tree/master/katyml)
 
 Recurrent Neural Nets, Part I ([Goodfellow, et al. 2016](http://www.deeplearningbook.org/contents/rnn.html), Chapter 10 Sequence Modeling, Sections 10.1-10.6). Houston Machine Learning. Houston, TX. Jun 16, 2018.
 
