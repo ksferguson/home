@@ -10,8 +10,12 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
   * [Twitter](https://twitter.com/ksferguson)
 
 
+### Insight Data Science - AI Fellow
+
+* [Chasing the Flagellum: Rare Words for Text Generation](https://github.com/ksferguson/chasing)
+
 ### Katy Machine Learning - 11 Aug 2018
-  * [Talk Materials (In Progress)](https://github.com/ksferguson/home/tree/master/katyml)
+  * [Introduction to NLP Talk Materials](https://github.com/ksferguson/home/tree/master/katyml)
 
 ### fast.ai course notebooks
 
@@ -19,27 +23,15 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
     * Dogs vs Cats: Binary Image Classification (Lesson 1). [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-BC-Dogs-Cats.ipynb)
     * Dogs vs Cats: Binary Image Classification (Lesson 1+). [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-BC-Dogs-Cats-KMCL.ipynb)
     * Dog Breeds: Categorical Image Classification (Lesson 2). [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-MC-Dog-Breeds.ipynb)
-    * Planet: Multiple Categorical Image Classification (Lesson 2). In Progess.
-    * Favorita/Rossman: Structured Learning (Lesson 3).
-    * Sentiment Analysis: Language Modeling (Lesson 4)
-    * Movie Lens: Collaborative Filtering (Lesson 5).
-    * RNN: Custom Layer (Lesson 6/7).
-    * Batch Normalization (Lesson 7).
   * Deep Learning for Coders (2018) - Part 2
     * Image Object Detection: Primary Object Label & Bounding Box (Lesson 8). [Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L8%20Object%20Detection.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L8%20Object%20Detection.ipynb)
-    * Image Object Detection: Multiple Object Labels & Bounding Boxes (Lesson 9). In Progress.
     * NLP Classification (Lesson 10).[Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb)
-    * Visual-Semantic Embedding Classification (Lesson 10)
-    * Neural Translation (Lesson 11). In Progess.
-    * DarkNet: Generative Adversarial Networks (Lesson 12).  
-    * CycleGANs; Style Transfer (Lesson 13)
-    * Super Resolution; Segmentation w Unets (Lesson 14)
 
 ---
 
 ### Presentations
 
-Introduction to NLP: Sentiment Analysis with a Language Model. Katy Machine Learning. Houston, TX. Aug 11, 2018. [Talk Materials (In Progress)](https://github.com/ksferguson/home/tree/master/katyml)
+Introduction to NLP: Sentiment Analysis with a Language Model. Katy Machine Learning. Houston, TX. Aug 11, 2018. [Talk Materials](https://github.com/ksferguson/home/tree/master/katyml)
 
 Recurrent Neural Nets, Part I ([Goodfellow, et al. 2016](http://www.deeplearningbook.org/contents/rnn.html), Chapter 10 Sequence Modeling, Sections 10.1-10.6). Houston Machine Learning. Houston, TX. Jun 16, 2018.
 
@@ -58,7 +50,3 @@ Ph.D. & M.A. in Linguistics (Syntax, minor field Computational Linguistics). Har
 B.S. in Computer Science (minor field linguistics). Louisiana State University. Baton Rouge, LA.
 
 ---
-Tasks:
-
-  * [ ] Add Pubs
-  * [ ] Convert to github.io site
