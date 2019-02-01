@@ -31,7 +31,7 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
 ### Presentations
 
-Chasing the Flagellum: Rare Words for Text Generation (Short Talk). Oct/Nov 2018. Presented at BBVA (Azlo), Bosch, Discern Dx, Gyant, InQTel, Mya, and Uber. 
+Chasing the Flagellum: Rare Words for Text Generation (Short Talk). Presented at BBVA (Azlo), Bosch, Discern Dx, Gyant, InQTel, Mya, and Uber in San Francisco Bay Area. Oct/Nov 2018.
 
 Introduction to NLP: Sentiment Analysis with a Language Model. Katy Machine Learning. Houston, TX. Aug 11, 2018. [Talk Materials](https://github.com/ksferguson/home/tree/master/katyml)
 
