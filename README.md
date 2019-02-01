@@ -31,6 +31,8 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
 ### Presentations
 
+Chasing the Flagellum: Rare Words for Text Generation (Short Talk). Oct/Nov 2018. Presented at BBVA (Azlo), Bosch, Discern Dx, Gyant, InQTel, Mya, and Uber. 
+
 Introduction to NLP: Sentiment Analysis with a Language Model. Katy Machine Learning. Houston, TX. Aug 11, 2018. [Talk Materials](https://github.com/ksferguson/home/tree/master/katyml)
 
 Recurrent Neural Nets, Part I ([Goodfellow, et al. 2016](http://www.deeplearningbook.org/contents/rnn.html), Chapter 10 Sequence Modeling, Sections 10.1-10.6). Houston Machine Learning. Houston, TX. Jun 16, 2018.
