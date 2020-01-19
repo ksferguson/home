@@ -2,11 +2,10 @@
 
 Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP at LATL/U. Geneva, Harvard Ph.D. in Linguistics (Syntax, with Comp Ling minor), LSU BS in Computer Science.
 
+  * [LinkedIn](https://www.linkedin.com/in/kscottferguson)
   * [GitHub](https://github.com/ksferguson/home)
   * [Gists](https://gist.github.com/ksferguson)
   * [Google Scholar](https://scholar.google.com/citations?user=bPUb6hcAAAAJ&hl=en)
-  * [LinkedIn](https://www.linkedin.com/in/kscottferguson)
-  * [Career](https://careerwebfolio.com/scottferguson)
   * [Twitter](https://twitter.com/ksferguson)
 
 
