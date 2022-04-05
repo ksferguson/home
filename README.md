@@ -2,10 +2,10 @@
 
 ---
 
-Director of Data Analytics and AI,
-FlexManage
+Director, Data Analytics & AI,
+New Era Technology
 
-National Practice leader for Cloud AI & Analytics work. Deep technical expertise on Azure, Azure ML, Power BI, Azure Analytics, Azure SQL, etc. combined with ability to execute, lead, and communicate . FlexManage is a Microsoft Gold Partner.
+National Practice leader for Cloud AI & Analytics work. Deep technical expertise on Azure, Azure ML, Power BI, Azure Analytics, Azure SQL, etc. combined with ability to execute, lead, and communicate. New Era Technology is a Microsoft Solutions Partner.
 
 ---
 
@@ -50,6 +50,8 @@ Big Data/IoT/AI Ecosystem (Panel Moderator). Louisiana IT Symposium. New Orleans
 ---
 
 ### Misc Materials
+
+Note: this is not current work, need to update.
 
 #### fast.ai course notebooks
 
