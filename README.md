@@ -5,7 +5,7 @@
 Director, Data Analytics & AI,
 New Era Technology
 
-National Practice leader for Cloud AI & Analytics work. Deep technical expertise on Azure, Azure ML, Power BI, Azure Analytics, Azure SQL, etc. combined with ability to execute, lead, and communicate. New Era Technology is a Microsoft Solutions Partner.
+Enterprise Practice leader for Cloud AI & Analytics work. Deep technical expertise on Azure, Azure ML, Power BI, Azure Synapse Analytics, Azure SQL, etc. combined with ability to execute, lead, and communicate. New Era Technology is a Microsoft Solutions Partner.
 
 ---
 
@@ -20,6 +20,10 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 ---
 
 ### Presentations
+
+Power BI Metadata Reporting (working). Houston Power BI Users Group. Oct 20, 2022.
+
+Reusing Power BI Dataflows in Azure Synapse. Houston Power BI Users Group. Jun 17, 2022.
 
 Let's Talk Data: Panelist. HEDS Meetup. Houston, TX. Jan 16, 2020.
 
