@@ -24,7 +24,7 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 Power BI Metadata Reporting (working). Houston Power BI Users Group. Oct 20, 2022.
 
 Reusing Power BI Dataflows in Azure Synapse. Houston Power BI Users Group. Jun 17, 2021.
-[Part 1 - Database Setup](https://github.com/ksferguson/home/tree/master/hpbiug)
+[Part 1 - Database Setup](https://github.com/ksferguson/home/blob/master/hpbiug/Reusing%20%20Power%20BI%20dataflows%20in%20Azure%20Synapse%2020210617.pdf)
 
 Let's Talk Data: Panelist. HEDS Meetup. Houston, TX. Jan 16, 2020.
 
