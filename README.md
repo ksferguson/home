@@ -23,7 +23,7 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
 Power BI Metadata Reporting (working). Houston Power BI Users Group. Oct 20, 2022.
 
-Reusing Power BI Dataflows in Azure Synapse. Houston Power BI Users Group. Jun 17, 2022.
+Reusing Power BI Dataflows in Azure Synapse. Houston Power BI Users Group. Jun 17, 2021.
 
 Let's Talk Data: Panelist. HEDS Meetup. Houston, TX. Jan 16, 2020.
 
