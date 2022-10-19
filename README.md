@@ -26,6 +26,10 @@ Power BI Metadata Reporting (working). Houston Power BI Users Group. Oct 20, 202
 Reusing Power BI Dataflows in Azure Synapse. Houston Power BI Users Group. Jun 17, 2021.
 [Part 1 - Database Setup](https://github.com/ksferguson/home/blob/master/hpbiug/Reusing%20%20Power%20BI%20dataflows%20in%20Azure%20Synapse%2020210617.pdf)
 
+Global AI Night. Microsoft Technology Center, Houston, TX. Sep 5, 2019
+-	Session 1: Creating applications that can see, hear, speak or understand - using Microsoft Cognitive Services
+-	Session 2: Crash course on building and accelerating deep learning solutions
+
 Let's Talk Data: Panelist. HEDS Meetup. Houston, TX. Jan 16, 2020.
 
 Data Science from Scratch, Ch 16-17 Logistic Regression, Decision Trees. Katy Data Analytics & Machine Learning Meetup. Katy, TX. Nov 9, 2019
