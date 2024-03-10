@@ -5,7 +5,7 @@
 Director, Data Analytics & AI,
 New Era Technology
 
-Enterprise Practice leader for Cloud AI & Analytics work. Deep technical expertise on Azure, Azure ML, Power BI, Azure Synapse Analytics, Azure SQL, etc. combined with ability to execute, lead, and communicate. New Era Technology is a Microsoft Solutions Partner.
+I am a Data Analytics & AI Director with hands-on expertise solving problems with technology and building high-performing teams both in Fortune 500 and startup organizations. Deep interests in computational intelligence; matching experience in global company processes & measures. Built teams/practices/offers around M365 Copilot, Power BI, Power Platform, and ERP & MRP data. 
 
 ---
 
@@ -13,15 +13,20 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
   * [LinkedIn](https://www.linkedin.com/in/kscottferguson)
   * [GitHub](https://github.com/ksferguson/home)
-  * [Gists](https://gist.github.com/ksferguson)
   * [Google Scholar](https://scholar.google.com/citations?user=bPUb6hcAAAAJ&hl=en)
-  * [Twitter](https://twitter.com/ksferguson)
+  * [Gists](https://gist.github.com/ksferguson)
+
+  <!-- * [Twitter](https://twitter.com/ksferguson) -->
 
 ---
 
-### Presentations
+### Presentations & Community Activities
 
-Power BI Metadata Reporting (working). Houston Power BI Users Group. Oct 20, 2022.
+AI for Energy Workshop. Planning Committee. Energy HP Conference. Mar 7, 2024.
+
+AI and ESG - Friend or Foe. Panelist. ESG Council. Aug 17, 2023. 
+
+Power BI Metadata Reporting. Houston Power BI Users Group. Oct 20, 2022.
 
 Reusing Power BI Dataflows in Azure Synapse. Houston Power BI Users Group. Jun 17, 2021.
 [Part 1 - Database Setup](https://github.com/ksferguson/home/blob/master/hpbiug/Reusing%20%20Power%20BI%20dataflows%20in%20Azure%20Synapse%2020210617.pdf)
@@ -56,7 +61,7 @@ Big Data/IoT/AI Ecosystem (Panel Moderator). Louisiana IT Symposium. New Orleans
 
 ---
 
-### Misc Materials
+<!-- ### Misc Materials
 
 Note: this is not current work, need to update.
 
@@ -70,7 +75,7 @@ Note: this is not current work, need to update.
     * Image Object Detection: Primary Object Label & Bounding Box (Lesson 8). [Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L8%20Object%20Detection.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L8%20Object%20Detection.ipynb)
     * NLP Classification (Lesson 10).[Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb)
 
----
+--- -->
 
 ### Education
 
