@@ -25,7 +25,7 @@ AI and ESG - Friend or Foe. Panelist w Trish Uhl, Cynthia Mabrym and Katie Mehne
 
 Power BI Metadata Reporting. Houston Power BI Users Group. Oct 20, 2022.
 
-Rice Ken Kennedy AI & Data Science Conference 2021, Program Committee. Oct 26-28, 2021. 
+Rice Ken Kennedy AI & Data Science Conference 2021, Program Committee. Oct 25-26, 2021. 
 
 Reusing Power BI Dataflows in Azure Synapse. Houston Power BI Users Group. Jun 17, 2021.
 [Part 1 - Database Setup](https://github.com/ksferguson/home/blob/master/hpbiug/Reusing%20%20Power%20BI%20dataflows%20in%20Azure%20Synapse%2020210617.pdf)
