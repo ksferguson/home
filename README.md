@@ -23,7 +23,7 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
 ### Presentations & Community Activities
 
-AI for Energy Workshop Planning Committee. Energy HP Conference. Rice, Ken Kennedy Institute. Mar 7, 2024.
+AI for Energy Workshop Planning Committee, Rice Ken Kennedy Institute Energy HPC Conference. Mar 7, 2024.
 
 AI and ESG - Friend or Foe. Panelist. ESG Council. Aug 17, 2023. 
 
