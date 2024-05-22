@@ -3,9 +3,10 @@
 ---
 
 Director, Data & AI
+
 Ferguson Analytics
 
-I am a Data Analytics & AI Director with hands-on expertise solving problems with technology and building high-performing teams both in Fortune 500 and startup organizations. Deep interests in computational intelligence; matching experience in global company processes & measures. Built teams/practices/offers around M365 Copilot, Power BI, Power Platform, and ERP & MRP data. 
+I am a Data & AI Director with hands-on expertise solving problems with technology and building high-performing teams both in Fortune 500 and startup organizations. Deep interests in computational intelligence; matching experience in global company processes & measures. Built teams/practices/offers around M365 Copilot, Power BI, Power Platform, and ERP & MRP data. 
 
 ---
 
@@ -22,20 +23,26 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
 ### Presentations & Community Activities
 
-AI for Energy Workshop. Planning Committee. Energy HP Conference. Mar 7, 2024.
+AI for Energy Workshop Planning Committee. Energy HP Conference. Rice, Ken Kennedy Institute. Mar 7, 2024.
 
 AI and ESG - Friend or Foe. Panelist. ESG Council. Aug 17, 2023. 
 
 Power BI Metadata Reporting. Houston Power BI Users Group. Oct 20, 2022.
 
+Rice Ken Kennedy AI & Data Science Conference 2021, Program Committee. Oct 26-28, 2021. 
+
 Reusing Power BI Dataflows in Azure Synapse. Houston Power BI Users Group. Jun 17, 2021.
 [Part 1 - Database Setup](https://github.com/ksferguson/home/blob/master/hpbiug/Reusing%20%20Power%20BI%20dataflows%20in%20Azure%20Synapse%2020210617.pdf)
 
+Rice Data Science Conference 2020, Program Committee. Oct 26-28, 2020. 
+
 Let's Talk Data: Panelist. HEDS Meetup. Houston, TX. Jan 16, 2020.
 
-Data Science from Scratch, Ch 16-17 Logistic Regression, Decision Trees. Katy Data Analytics & Machine Learning Meetup. Katy, TX. Nov 9, 2019
+Data Science from Scratch, Ch 16-17 Logistic Regression, Decision Trees. Katy Data Analytics & Machine Learning Meetup. Katy, TX. Nov 9, 2019.
 
-Data Science from Scratch, Ch 14 Simple Linear Regression. Katy Data Analytics & Machine Learning Meetup. Katy, TX. Sep 21, 2019
+Rice Data Science Conference 2019, Program Committee. Oct 14-15, 2019. 
+
+Data Science from Scratch, Ch 14 Simple Linear Regression. Katy Data Analytics & Machine Learning Meetup. Katy, TX. Sep 21, 2019.
 
 Global AI Night. Microsoft Technology Center, Houston, TX. Sep 5, 2019
 -	Session 1: Creating applications that can see, hear, speak or understand - using Microsoft Cognitive Services
@@ -50,6 +57,8 @@ Data Science from Scratch, Ch 6-7 Probability, Hypothesis and Inference. Katy Da
 Data Science from Scratch, Ch 1-4 Intro, Python, Visualizing Data, Linear Algebra. Katy Data Analytics & Machine Learning Meetup. Katy, TX. May 25, 2019
 
 Chasing the Flagellum: Rare Words for Text Generation (Short Talk). Presented at BBVA (Azlo), Bosch, Discern Dx, Gyant, InQTel, Mya, and Uber in San Francisco Bay Area. Oct/Nov 2018. [Chasing the Flagellum](https://github.com/ksferguson/chasing)
+
+Rice Data Science Conference 2018, Program Committee. Oct 18-19, 2019. 
 
 Introduction to NLP: Sentiment Analysis with a Language Model. Katy Machine Learning. Houston, TX. Aug 11, 2018. [Talk Materials](https://github.com/ksferguson/home/tree/master/katyml)
 
