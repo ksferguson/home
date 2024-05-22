@@ -2,8 +2,8 @@
 
 ---
 
-Director, Data Analytics & AI,
-New Era Technology
+Director, Data & AI
+Ferguson Analytics
 
 I am a Data Analytics & AI Director with hands-on expertise solving problems with technology and building high-performing teams both in Fortune 500 and startup organizations. Deep interests in computational intelligence; matching experience in global company processes & measures. Built teams/practices/offers around M365 Copilot, Power BI, Power Platform, and ERP & MRP data. 
 
