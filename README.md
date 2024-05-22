@@ -2,11 +2,9 @@
 
 ---
 
-Director, Data & AI
-
 Ferguson Analytics
 
-I am a Data & AI Director with hands-on expertise solving problems with technology and building high-performing teams both in Fortune 500 and startup organizations. Deep interests in computational intelligence; matching experience in global company processes & measures. Built teams/practices/offers around M365 Copilot, Power BI, Power Platform, and ERP & MRP data. 
+I am a Data & AI Leader with hands-on expertise solving problems with technology and building high-performing teams both in Fortune 500 and startup organizations. Deep interests in computational intelligence; matching experience in global company processes & measures. Built teams/practices/offers around M365 Copilot, Power BI, Power Platform, and ERP & MRP data. 
 
 ---
 
@@ -25,7 +23,7 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
 AI for Energy Workshop Planning Committee, Rice Ken Kennedy Institute Energy HPC Conference. Mar 7, 2024.
 
-AI and ESG - Friend or Foe. Panelist. ESG Council. Aug 17, 2023. 
+AI and ESG - Friend or Foe. Panelist w Trish Uhl, Cynthia Mabrym and Katie Mehnert. ESG Council. Aug 17, 2023. 
 
 Power BI Metadata Reporting. Houston Power BI Users Group. Oct 20, 2022.
 
