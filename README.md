@@ -64,6 +64,8 @@ From Application Servers to Server-less Lambda Functions (Lightning Talk). AIA (
 
 Big Data/IoT/AI Ecosystem (Panel Moderator). Louisiana IT Symposium. New Orleans, LA. Nov 8, 2017.
 
+Get a Ph.D. and Work in Industry. LSU Undergraduate Research Conference 2012: Excite, Explore, Experiment. Baton Rouge, LA. · Oct 26, 2012
+
 ---
 
 <!-- ### Misc Materials
