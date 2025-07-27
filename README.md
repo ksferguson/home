@@ -2,7 +2,7 @@
 
 ---
 
-I am a Data & AI Leader with hands-on expertise solving problems with technology and building high-performing teams both in Fortune 500 and startup organizations. Deep interests in computational intelligence; matching experience in global company processes & measures. Built teams/practices/offers around M365 Copilot, Power BI, Power Platform, and ERP & MRP data. 
+I am a Generative AI Leader with hands-on expertise solving problems with technology and building high-performing teams both in Fortune 500 and startup organizations. Deep interests in computational intelligence; matching experience in global company processes & measures. Built teams/practices/offers around M365 Copilot, Power BI, Power Platform, and ERP & MRP data. 
 
 ---
 
@@ -18,6 +18,14 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 ---
 
 ### Presentations & Community Activities
+
+The Fabric Professional's AI Playbook: Skills, Models, and Survival Strategies, Microsoft Fabric Tour, UT Dallas, 9/6/2025
+
+Agentic AI and the Future of Fabric, Houston Global Fabric Day, Microsoft Technology Center (Houston), 5/31/2025
+
+Executive AI Lunch and Learn, San Jacinto College, Generation Park Campus, 5/16/2025
+
+Executive AI: Build Out Your AI Toolkit, Harvard Business School Club Breakfast Forum, River Oaks Country Club, 5/1/2025
 
 AI for Energy Workshop Planning Committee, Rice Ken Kennedy Institute Energy HPC Conference. Mar 7, 2024.
 
