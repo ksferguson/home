@@ -19,6 +19,8 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
 ### Presentations & Community Activities
 
+How to Make Yourself Comfortable with AI: The AI Confidence Framework for Decision Professionals. Society for Decision Professionals. Boston, MA. Mar 24, 2026
+
 The Fabric Professional's AI Playbook: Skills, Models, and Survival Strategies, Microsoft Fabric Tour, UT Dallas, 9/6/2025
 
 Agentic AI and the Future of Fabric, Houston Global Fabric Day, Microsoft Technology Center (Houston), 5/31/2025
@@ -62,7 +64,7 @@ Data Science from Scratch, Ch 1-4 Intro, Python, Visualizing Data, Linear Algebr
 
 Chasing the Flagellum: Rare Words for Text Generation (Short Talk). Presented at BBVA (Azlo), Bosch, Discern Dx, Gyant, InQTel, Mya, and Uber in San Francisco Bay Area. Oct/Nov 2018. [Chasing the Flagellum](https://github.com/ksferguson/chasing)
 
-Rice Data Science Conference 2018, Program Committee. Oct 18-19, 2019. 
+Rice Data Science Conference 2018, Program Committee. Oct 8-9, 2018. 
 
 Introduction to NLP: Sentiment Analysis with a Language Model. Katy Machine Learning. Houston, TX. Aug 11, 2018. [Talk Materials](https://github.com/ksferguson/home/tree/master/katyml)
 
