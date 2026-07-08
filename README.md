@@ -21,19 +21,21 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
 How to Make Yourself Comfortable with AI: The AI Confidence Framework for Decision Professionals. Society for Decision Professionals. Boston, MA. Mar 24, 2026
 
-The Fabric Professional's AI Playbook: Skills, Models, and Survival Strategies, Microsoft Fabric Tour, UT Dallas, 9/6/2025
+AI Panelist, Agile Leadership Network. Improving, Houston, TX. Dec 10, 2025.
 
-Agentic AI and the Future of Fabric, Houston Global Fabric Day, Microsoft Technology Center (Houston), 5/31/2025
+The Fabric Professional's AI Playbook: Skills, Models, and Survival Strategies, Microsoft Fabric Tour, UT Dallas, Sep 6, 2025
 
-Executive AI Lunch and Learn, San Jacinto College, Generation Park Campus, 5/16/2025
+Agentic AI and the Future of Fabric, Houston Global Fabric Dayc, Microsoft Technology Center, Houston, TX. May 31, 2025
 
-Executive AI: Build Out Your AI Toolkit, Harvard Business School Club Breakfast Forum, River Oaks Country Club, 5/1/2025
+Executive AI Lunch and Learn, San Jacinto College, Generation Park, Houston, TX.. May 16, 2025
 
-AI for Energy Workshop Planning Committee, Rice Ken Kennedy Institute Energy HPC Conference. Mar 7, 2024.
+Executive AI: Build Out Your AI Toolkit, Harvard Business School Club Breakfast Forum, River Oaks Country Club, Houston, TX. May 1, 2025
+
+AI for Energy Workshop Planning Committee, Rice Ken Kennedy Institute Energy HPC Conference, Houston, TX. Mar 7, 2024.
 
 AI and ESG - Friend or Foe. Panelist w Trish Uhl, Cynthia Mabrym and Katie Mehnert. ESG Council. Aug 17, 2023. 
 
-Power BI Metadata Reporting. Houston Power BI Users Group. Oct 20, 2022.
+Power BI Metadata Reporting. Houston Power BI Users Group, Microsoft Technology Center, Houston, TX. Oct 20, 2022.
 
 Rice Ken Kennedy AI & Data Science Conference 2021, Program Committee. Oct 25-26, 2021. 
 
@@ -75,24 +77,6 @@ From Application Servers to Server-less Lambda Functions (Lightning Talk). AIA (
 Big Data/IoT/AI Ecosystem (Panel Moderator). Louisiana IT Symposium. New Orleans, LA. Nov 8, 2017.
 
 Get a Ph.D. and Work in Industry. LSU Undergraduate Research Conference 2012: Excite, Explore, Experiment. Baton Rouge, LA. · Oct 26, 2012
-
----
-
-<!-- ### Misc Materials
-
-Note: this is not current work, need to update.
-
-#### fast.ai course notebooks
-
-  * Deep Learning for Coders (2018) - Part 1
-    * Dogs vs Cats: Binary Image Classification (Lesson 1). [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-BC-Dogs-Cats.ipynb)
-    * Dogs vs Cats: Binary Image Classification (Lesson 1+). [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-BC-Dogs-Cats-KMCL.ipynb)
-    * Dog Breeds: Categorical Image Classification (Lesson 2). [Jupyter Notebook](https://github.com/ksferguson/home/blob/master/nbs/fastai-MC-Dog-Breeds.ipynb)
-  * Deep Learning for Coders (2018) - Part 2
-    * Image Object Detection: Primary Object Label & Bounding Box (Lesson 8). [Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L8%20Object%20Detection.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L8%20Object%20Detection.ipynb)
-    * NLP Classification (Lesson 10).[Jupyter Notebook on nbviewer](https://nbviewer.jupyter.org/github/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb), [on GitHub](https://github.com/ksferguson/home/blob/master/nbs/fast.ai%20DL2%20L10%20Language%20Model%20%26%20Classification.ipynb)
-
---- -->
 
 ### Education
 
