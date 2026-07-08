@@ -78,6 +78,66 @@ Big Data/IoT/AI Ecosystem (Panel Moderator). Louisiana IT Symposium. New Orleans
 
 Get a Ph.D. and Work in Industry. LSU Undergraduate Research Conference 2012: Excite, Explore, Experiment. Baton Rouge, LA. · Oct 26, 2012
 
+### Publications
+
+#### Oil & gas industry conference papers
+
+2002. Enabling New Business Processes with Web, Workflow, and Integration Strategies (with John Plumlee, P.E.). National Petrochemical & Refiners Association Computer Conference, Austin, TX, November 17–20, 2002.
+
+2001. Emerging Tools for Process-Driven Reliability: Portals, Workflow, and XML Integration (with Darrell Ferguson, CPMM). MARCON 2001, Gatlinburg, TN, May 7–9, 2001.
+
+2000. The Web, XML and the Extended Enterprise: An Integrated Business Community? (with John Plumlee, P.E.). National Petrochemical & Refiners Association Computer Conference, Chicago, IL, November 14, 2000.
+
+#### Invited and refereed technical papers
+
+1997. Coordination in an Incremental GB Parser. GLOW Newsletter 38, 82–83. Presented at GLOW 20 Workshop, Rabat, Morocco.
+
+1997. Deducing the Invisibility of PP Nodes from Case Checking and Full Interpretation. GLOW Newsletter 38, 22–23. Presented at GLOW 20, Rabat, Morocco.
+
+1996. A Feature-Relativized Shortest Move Requirement. Doctoral dissertation, Harvard University. Presented at the University of Geneva.
+
+1996. VP Shells and the Abstract Clitic Hypothesis. Ms., University of Geneva. Presented at MIT Department of Linguistics. (tentatively accepted for Linguistic Inquiry)
+
+1996. Shortest Move and Object Case Checking. In Minimal Ideas, ed. Werner Abraham, Samuel D. Epstein, Höskuldur Thráinsson, and C. Jan-Wouter Zwart. Amsterdam: John Benjamins.
+
+1994. Defining "Shortest Move" (with Erich M. Groat). GLOW Newsletter 32, 24–25. Presented at GLOW 17, Vienna, Austria.
+
+1994. Deriving the Invisibility of PP Nodes for Command from Agr0 + P0 Case Checking. Harvard Working Papers in Linguistics 4, 30–36.
+
+1993. Notes on the Shortest Move Metric and Object Checking. Harvard Working Papers in Linguistics 3, 65–80.
+
+1993. Particles, Derived Verbs, and the Abstract Clitic Hypothesis. Harvard Working Papers in Linguistics 1, 129–141.
+
+1990. Book Notice for C. F. Meyer's A Linguistic Study of American Punctuation. TESOL Quarterly 24, 515–516.
+
+1990. Grammar and Technical Writing (with Frank Parker). Journal of Technical Writing and Communication 20, 357–368.
+
+### Professional Service & Community Leadership
+
+Rice University Data Science & AI/HPC Conferences — Program Committee member for five conferences/workshops. 2018-2024.
+
+Houston Energy Data Science, Inc. — Member, Board of Directors. Coordinated analytics and machine learning meetups fostering collaboration in Houston's energy data science community. 2018-2020.
+
+Katy Data Analytics & ML Meetup — Co-organizer. 2018-2020.
+
+Professional memberships: ACM; IEEE Computer Society & Computational Intelligence Society; Association for Computational Linguistics.
+
+### Certifications
+
+Microsoft Certified: Azure AI Engineer Associate (AI-102)
+
+Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+
+### Service
+
+#### United States Marine Corps Reserve — 1982-1988
+Served as .50 caliber machinegun team leader and NBC warfare NCO for the Heavy Weapons Company, 3rd Battalion, 23rd Marine Regiment, 4th Marine Division. 
+
+Eagle Scout, Scouting America (Boy Scouts of America). 1982
+
+
+
+
 ### Education
 
 Postdoc (2 Years). Laboratoire d'Analyse et de Technologie du Langage, Université de Genève. Geneva, Switzerland.
