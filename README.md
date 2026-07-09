@@ -128,14 +128,22 @@ Microsoft Certified: Azure AI Engineer Associate (AI-102)
 
 Microsoft Certified: Azure Security Engineer Associate (AZ-500)
 
-### Service
+### Service & Volunteering
+
+#### Harvard Business School Club of Houston
+Director of Technology, 2026+
+
+#### Scouting America (Boy Scouts of America)
+Crew Advisor, Crew 424, Katy, TX. 2023+
+
+Assistant Scoutmaster, Troop 424, Katy, TX. 2014-2023
+
+Committee Member, Crew 32, Cypress, TX. 2014-2019
+
+Eagle Scout, Troop 478, Baton Rouge, LA. 1982
 
 #### United States Marine Corps Reserve — 1982-1988
 Served as .50 caliber machinegun team leader and NBC warfare NCO for the Heavy Weapons Company, 3rd Battalion, 23rd Marine Regiment, 4th Marine Division. 
-
-Eagle Scout, Scouting America (Boy Scouts of America). 1982
-
-
 
 
 ### Education
