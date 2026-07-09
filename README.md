@@ -17,6 +17,16 @@ Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP a
 
 ---
 
+### Education
+
+Postdoc (2 Years). Laboratoire d'Analyse et de Technologie du Langage, Université de Genève. Geneva, Switzerland.
+
+Ph.D. & M.A. in Linguistics (Syntax, minor field Computational Linguistics). Harvard University. Cambridge, MA.
+
+B.S. in Computer Science (minor field Linguistics). Louisiana State University. Baton Rouge, LA.
+
+---
+
 ### Presentations & Community Activities
 
 How to Make Yourself Comfortable with AI: The AI Confidence Framework for Decision Professionals. Society for Decision Professionals. Boston, MA. Mar 24, 2026
@@ -144,14 +154,5 @@ Eagle Scout, Troop 478, Baton Rouge, LA. 1982
 
 #### United States Marine Corps Reserve — 1982-1988
 Served as .50 caliber machinegun team leader and NBC warfare NCO for the Heavy Weapons Company, 3rd Battalion, 23rd Marine Regiment, 4th Marine Division. 
-
-
-### Education
-
-Postdoc (2 Years). Laboratoire d'Analyse et de Technologie du Langage, Université de Genève. Geneva, Switzerland.
-
-Ph.D. & M.A. in Linguistics (Syntax, minor field Computational Linguistics). Harvard University. Cambridge, MA.
-
-B.S. in Computer Science (minor field linguistics). Louisiana State University. Baton Rouge, LA.
 
 ---
