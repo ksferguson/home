@@ -2,18 +2,20 @@
 
 ---
 
-I am a Generative AI Leader with hands-on expertise solving problems with technology and building high-performing teams both in Fortune 500 and startup organizations. Deep interests in computational intelligence; matching experience in global company processes & measures. Built teams/practices/offers around M365 Copilot, Power BI, Power Platform, and ERP & MRP data. 
+**Independent AI Advisor for capital-intensive industries.** I help capital allocators (PE, family offices, VC) and industrial operators (O&G, EPC, manufacturing) make confident AI decisions — separating what's real from vendor hype and building AI strategies boards can stand behind.
+
+Principal, Ferguson Analytics (Houston). AI Advisor & LP at More Than Capital. 25+ years in enterprise systems across energy, EPC, and manufacturing, from Fortune 500 to startups.
+
+Harvard Ph.D. in Linguistics (Computational Linguistics minor) · Postdoc in SYntax and NLP, LATL/Uni Geneve · B.S. Computer Science, LSU
+
+Creator of the AI Confidence Framework — Practice, Process, Positioning — for evaluating where AI actually delivers.
 
 ---
-
-Computational Scientist with interests in NLU, NLP, ML, and AI. Postdoc in NLP at LATL/U. Geneva, Harvard Ph.D. in Linguistics (Syntax, with Comp Ling minor), LSU BS in Computer Science.
 
   * [LinkedIn](https://www.linkedin.com/in/kscottferguson)
   * [GitHub](https://github.com/ksferguson/home)
   * [Google Scholar](https://scholar.google.com/citations?user=bPUb6hcAAAAJ&hl=en)
   * [Gists](https://gist.github.com/ksferguson)
-
-  <!-- * [Twitter](https://twitter.com/ksferguson) -->
 
 ---
 
