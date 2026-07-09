@@ -6,7 +6,7 @@
 
 Principal, Ferguson Analytics (Houston). AI Advisor & LP at More Than Capital. 25+ years in enterprise systems across energy, EPC, and manufacturing, from Fortune 500 to startups.
 
-Harvard Ph.D. in Linguistics (Computational Linguistics minor) · Postdoc in SYntax and NLP, LATL/Uni Geneve · B.S. Computer Science, LSU
+Harvard Ph.D. in Linguistics (Computational Linguistics minor) · Postdoc in NLP, LATL/Uni Geneve · B.S. Computer Science, LSU
 
 Creator of the AI Confidence Framework — Practice, Process, Positioning — for evaluating where AI actually delivers.
 
